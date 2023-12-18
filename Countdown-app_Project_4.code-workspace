@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Rotating_Gallery_Project_3"
+		},
+		{
+			"path": "../ProfileStats_Project_2"
+		},
+		{
+			"path": "../Emoji_Rating_Project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502,
+		"liveServer.settings.multiRootWorkspaceName": "Countdown-app_Project_4"
+	}
+}
